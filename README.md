@@ -7,3 +7,5 @@ The key idea is to train a neural network-based optimizer that can output gradie
 The authors demonstrate the effectiveness of this approach on acoustic echo cancellation tasks, showing that the learned optimizers can outperform traditional hand-tuned baselines in terms of convergence speed, robustness to nonlinearities, and adaptation to unseen acoustic environments. This suggests that the Auto-DSP method has the potential to revolutionize how adaptive filters are designed and optimized in the future . 
 # run the codes : 
 you can find the codes of paper in codes directory and run them . 
+# video explanation of paper and codes : 
+for better understanding you find video explanation of paper and code from google drive : https://drive.google.com/drive/folders/1mPThK9E37d_YGdSLbODfr2cMlw_OcjKK?usp=drive_link 
